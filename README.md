@@ -9,7 +9,7 @@
 There are two ways of initializing an app using `create-t3-turbo` starter. You can either use this repository as a template or use Turbo's CLI to init your project:
 
 ```bash
-npx create-turbo@latest -e https://github.com/t3-oss/create-t3-turbo
+npx create-turbo@latest -e https://github.com/the-dream-machine/t3-prisma-turborepo
 ```
 
 ## About
